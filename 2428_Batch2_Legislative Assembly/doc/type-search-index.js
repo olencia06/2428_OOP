@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"AssemblyManager"},{"p":"<Unnamed>","l":"Bill"},{"p":"<Unnamed>","l":"ChiefMinister"},{"p":"<Unnamed>","l":"GoaLegislativeAssembly"},{"p":"<Unnamed>","l":"MLA"}];updateSearchResults();
