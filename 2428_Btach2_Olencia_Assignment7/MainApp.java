@@ -1,3 +1,11 @@
+/*
+ * Author: Olencia Fernandes
+ * Roll no: 2429
+ * Topic: Assignment 7
+ * Start Date: 21 October 2024
+ * Modified Date: 21 October 2024
+ * Description:  Implementation of Exception Handling, Generics and Lambda Function using Java 
+ */
 // MainApp.java
 import java.util.ArrayList;
 import java.util.List;
